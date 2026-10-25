@@ -6,6 +6,14 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I enjoy mountain biking and have cycled through some of the most challenging trails in the Dolomites!
 
+## My GitHub Projects
+
+- Total repositories: 60
+- Public repositories: 14
+- Private repositories: 46
+
+Private repositories primarily contain professional and company-related projects that are not publicly accessible due to confidentiality requirements.
+
 <!---
 Robson2k7/Robson2k7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
