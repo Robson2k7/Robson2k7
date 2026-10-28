@@ -2,7 +2,7 @@
 
 **AI & Automation Specialist | Python · Data Science · Applied AI**
 
-I work at the intersection of e-commerce, data, and artificial intelligence. At Helion Group, I combine experience in digital operations with designing and developing AI-assisted solutions for content workflows, product categorization, recommendations, and business process automation.
+I work at the intersection of e-commerce, data, and artificial intelligence. At Helion Group, I design and prototype AI-powered tools, Python applications, and workflow automations to improve internal business processes. Selected solutions are further developed or adapted for production use by the company's IT team.
 
 I'm interested in practical applications of large language models (LLMs), natural language processing (NLP), embeddings, Python, and data analysis. I enjoy turning repetitive or complex workflows into useful tools.
 
